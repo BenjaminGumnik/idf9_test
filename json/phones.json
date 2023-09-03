@@ -1,0 +1,30 @@
+[
+  {
+    "name":"Galaxy s23",
+    "price":3750,
+    "battery":55,
+    "camera":86,
+    "gaming":95
+  },
+  {
+    "name":"Galaxy a54",
+    "price":1310,
+    "battery":80,
+    "camera":81,
+    "gaming":50
+  },
+  {
+    "name":"Xiaomi Poco x5",
+    "price":1220,
+    "battery":75,
+    "camera":73,
+    "gaming":53
+  },
+  {
+    "name":"Apple iphone 14",
+    "price":3150,
+    "battery":65,
+    "camera":80,
+    "gaming":81
+  }
+]

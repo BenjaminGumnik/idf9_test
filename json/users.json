@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "64cf8e149d9624e54e40d72d"
+  },
+  "name": "koko akof",
+  "email": "koko@walla.com",
+  "password": "123",
+  "date_created": {
+    "$date": "2023-08-06T12:12:04.287Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64cf909d3990947e7128abc7"
+  },
+  "name": "koko akof 3",
+  "email": "koko3@walla.com",
+  "password": "$2b$10$rBrmmksf5aTUjCWEl3/MW.x3RGqbAoXzP36FXe3bjKWeYpAnl7LT2",
+  "date_created": {
+    "$date": "2023-08-06T12:22:53.169Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64d8af4fb121295758381cd3"
+  },
+  "name": "Joe biden",
+  "email": "biden@walla.com",
+  "password": "$2b$10$FXnLaRJinnzqnFcq8LCRquhowazc1l9OBL4u95OLfbRn.wr153ssm",
+  "date_created": {
+    "$date": "2023-08-13T10:24:15.128Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64d8b627c35bbb1fd50c1686"
+  },
+  "name": "Donald trump",
+  "email": "trump@walla.com",
+  "password": "$2b$10$IDBO.yF7RWi2.3/eCMCupe3LouuEoK1RSjQ7OOe4PKBtwNEa2ogqa",
+  "date_created": {
+    "$date": "2023-08-13T10:53:27.820Z"
+  },
+  "__v": 0
+}]
